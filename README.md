@@ -1,2 +1,2 @@
 # Set-MailCPL
-PowerShell script to resolve the "Application not found" error using the Control Panel Mail settings app in Windows 10
+PowerShell script resolving the "application not found" error running the Control Panel Mail settings app on a Windows 10 build 1903 PC with Office 365 installed locally.
